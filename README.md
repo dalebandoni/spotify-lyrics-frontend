@@ -1,4 +1,4 @@
-# BookMark
+# Spotify Lyrics Web App
 
 ## See the live version [here](https://spotify-lyrics-app-dale.netlify.app/) 
 
